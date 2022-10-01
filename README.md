@@ -1,4 +1,4 @@
-# Swagger with Django REST Framework
+# That's my project Swagger with Django REST Framework
 
 Integration of Swagger with DRF to generate API documentation.
 
